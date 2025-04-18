@@ -10,3 +10,12 @@ while (a<=10):
     a+=1
 
 print("\nCycle terminated!")
+
+# First modification to *.py file to be pushed to edit branch
+
+c=a+b
+
+if (a<=20):
+    print(f"Now a equals {a}, if we sum with b that equals {b} we obtain {c}")
+
+
